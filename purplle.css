@@ -1,0 +1,164 @@
+.box1{
+    position: relative;
+    color: black;
+    height: 490;
+    width: 1280;
+    font-weight: bold ;
+    text-indent: 200px;
+    top: 55px;
+    left: -0px;
+    font-style: oblique;
+    
+}
+.box1:hover{color: lightpink;}
+.box{
+    position: relative;
+    height: 125px;
+    width: 145px;
+    top: 1px;
+    left: -250px;
+    
+}
+.box3{
+    position: relative;
+    height: 500px;
+    width: 800;
+    top:50px;
+
+}
+
+.box2{
+    position: relative;
+    height: 30px;
+    width: 40px;
+    top: -43px;
+    left: -265px;    
+
+}
+.box4{
+    position: relative;
+    background-color: lightcoral;
+    border: 2px darkorchid solid;
+    border-radius: 10px;
+    box-sizing: 100px;
+    height: 30px;
+    width: 300px;
+    left: 13px;
+    top: 10px;
+    font-style: italic;
+}
+.box5:hover{color: lightpink;
+
+}
+.box5{
+    position: relative;
+    color: black;
+    height: 490;
+    width: 1280;
+    font-weight: bold ;
+    text-indent: 200px;
+    top: 55px;
+    left: 50px;
+    font-style: oblique;
+    
+}
+
+.box6:hover{color: lightpink;}
+.box6{
+    position: relative;
+    color: black;
+    height: 490;
+    width: 1280;
+    font-weight: bold ;
+    text-indent: 200px;
+    top: 55px;
+    left: 120px;
+    font-style: oblique;
+    
+}
+
+.box7{
+    position: relative;
+    color: black;
+    height: 490;
+    width: 1280;
+    font-weight: bold ;
+    text-indent: 200px;
+    top: 55px;
+    left:190px;
+    font-style: oblique;
+    
+}
+.box7:hover{color: lightpink;}
+.box8{
+    position: relative;
+    height: 490;
+    width: 1280;
+    color: #000;
+    font-weight: bold ;
+    text-indent: 200px;
+    top: 55px;
+    left: 230px;
+    font-style: oblique;
+    
+}
+.box8:hover{color: lightpink;}
+
+.box10{
+    position: relative;
+    height: 235px;
+    width: 400px;
+    background-image: url(https://media6.ppl-media.com/tr:w-427,ar-3112-1987,c-at_max/mediafiles/ecomm/misc/1629879257_web_02.jpg);
+    left: 10px;
+}
+
+.box11{
+    position: relative;
+    height: 235px;
+    width: 400px;
+    background-image: url(https://media6.ppl-media.com/tr:w-427,ar-1562-995,c-at_max/mediafiles/ecomm/misc/1629879257_web_03.jpg);
+    left: 430px;
+    top: -235px;
+}
+.box12{
+    position: relative;
+    height: 235px;
+    width: 400px;
+    background-image: url(https://media6.ppl-media.com/tr:w-427,ar-1562-995,c-at_max/mediafiles/ecomm/misc/1629879258_web_01.jpg);
+    left: 847px;
+    top: -470px;
+}
+.box13{
+    position: relative;
+    background-image: url(https://media6.ppl-media.com/tr:w-1280,c-at_max/mediafiles/ecomm/misc/1629184496_web.jpg);
+    height: 420px;
+    width: 1200px;
+    top:-430px;
+    left: 30px;
+}
+/* .box14{
+    position: inherit;
+    background-image: url(https://media6.ppl-media.com/tr:w-1280,c-at_max,f-gif/mediafiles/ecomm/misc/1631726411_web-lp-thick-strip.gif); */
+
+
+.box14{
+    position: relative;
+    top: -400px;
+}
+.box15{
+    position: relative;
+    top: -390px;
+    left: 10px;
+}
+.box16{
+    position: relative;
+    height: 500px;
+    width: 730px;
+    background-image: url(https://media6.ppl-media.com/tr:w-720,c-at_max/mediafiles/ecomm/misc/1631952605_gv-app-banner-738x514_-36.jpg);
+    left: 300px;
+    top: -400px; 
+}
+
+
+
+
